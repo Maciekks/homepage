@@ -1,0 +1,25 @@
+.navigation {
+    padding: 5px;
+    height: 40px;
+}
+
+.navigation__list {
+    text-align: center;
+    margin: auto;
+    height: 40px;
+}
+
+.navigation__item {
+    display: block;
+    width: 150px;
+    float: left;
+    margin-left: 1px;
+    border: 1px solid #000;
+    text-align: center;
+    background-color: teal;
+    padding: 5px;
+}
+
+.navigation__item:hover {
+    background-color: aqua;
+}

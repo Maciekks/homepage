@@ -1,0 +1,103 @@
+html {
+    box-sizing: border-box;
+    max-width: 1000px;
+    margin: auto;
+    font-family: 'Glory', sans-serif;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.header {
+    color: rgb(17, 17, 17);
+    text-align: center;
+    text-shadow: cornflowerblue;
+}
+
+.container {
+    overflow-x: auto;
+    background-color: white;
+}
+
+.pudełkoDoswiadczenie {
+    color: #418541;
+}
+
+.białeTło {
+    background-color: lavender;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    overflow-x: auto;
+}
+
+.caption {
+    caption-side: bottom;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.tableCell {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+.tableHeader {
+    background-color: teal;
+    font-weight: normal;
+}
+
+.tableHeader:hover {
+    background-color: aqua;
+}
+
+.tableRow:hover {
+    background-color: #ccc;
+}
+
+.main {
+    padding: 10px 0 0 0;
+    margin: 5px auto;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.zmianaCzcionki {
+    border: 0;
+    padding: 5px;
+    background-color: teal;
+    font-family: 'Glory', sans-serif;
+    color: white;
+}
+
+.zmianaCzcionki:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    background-color: aqua;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border: 0px;
+    box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.24);
+    text-align: center;
+}
+
+.czcionka {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+.paragraph {
+    line-height: 1.5;
+}
