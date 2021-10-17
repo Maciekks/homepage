@@ -8,4 +8,4 @@ https://maciekks.github.io/homepage/
 
 ## Opis
 
-Mój pierwszy homepage 2021 - świat stanął do góry nogami!
+My first own homepage 2021 - World turned upside down and is standing on its head!
